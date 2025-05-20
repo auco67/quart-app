@@ -40,4 +40,4 @@ if __name__ == "__main__":
 python quart_app.py
 ```
 
-
+![Image](https://github.com/user-attachments/assets/9a011d30-740d-4649-a0c5-cef75e3bb972)
